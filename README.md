@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+Arunkumar V Ramanan
+Founder and CEO at DeepBrainz (Chief Software Architect | Machine Learning Engineer | Data Scientist | AI Researcher)
+Bengaluru Area, India
 
-You can use the [editor on GitHub](https://github.com/ArunkumarRamanan/Arunkumar-V-Ramanan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Advancing Tomorrow's State-of-the-art AI with DeepBrainz aka DeepBrainz Intelligent Systems: A Future Revolutionary Technology Startup Influencing World Industries by Cutting-edge Technologies for "Empowering Humanity Universally" through R&D, Innovation, & Breakthroughs!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Future Innovator & Influencer!
 
-### Markdown
+An Objectivist: Entrepreneur, Founder and CEO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Chief Software Architect Machine Learning Engineer Data Scientist Principal Software Engineer (DevOps) AI Researcher Cloud Specialist AR/VR Coder Open Source Developer Ethical Hacker Competitive Programmer Kaggler
 
-```markdown
-Syntax highlighted code block
+An alumnus of Anna University & Cambridge School
 
-# Header 1
-## Header 2
-### Header 3
+Information Science & Technology Computer Science & Engineering Data Science & Engineering
 
-- Bulleted
-- List
+Artificial Intelligence AI Machine Learning ML Neural Networks Deep Learning DNN CNN RNN GANs Deep RL
 
-1. Numbered
-2. List
+Computer Vision CV Natural Language Processing NLP Robotics Artificial General Intelligence AGI
 
-**Bold** and _Italic_ and `Code` text
+Quantum Computing Blockchain & Emerging Technologies!
 
-[Link](url) and ![Image](src)
-```
+IT Business Strategy OKRs Management Entrepreneurship & Innovation!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Python & it's all major Libraries Scipy Stack Scikit-learn TensorFlow Keras DeepMind Lab Sonnet OpenAI Gym Universe Baselines CUDA Hadoop MapReduce Spark Rstats ASF MXNet Other OSS
 
-### Jekyll Themes
+Google Cloud GCP AutoML Cloud TPU AWS MLaaS IBM Watson MS Azure ML Spark MLlib Hadoop Ecosystem
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArunkumarRamanan/Arunkumar-V-Ramanan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ML Big Data Substantive Expertise Mathematical Statistical Computational Quantitative Hacking Skills
 
-### Support or Contact
+Psychology Emotional Intelligence EQ/EI Decision Sciences
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Creativity Logical Analytical Skills Brainstorming Critical Thinking Problem Solving Interpersonal Skills with all Competencies!
+
+Above all, the key skill called "LEARNABILITY" with Growth Mindset will help acquire all required skills of all Emerging Technologies Markets to pursue my DREAMS through Mission Vision Core Values!
+
+To be an asset to the organization by working with honesty and determination and have challenges as my duty and opportunity to achieve professional and personal growth along with the organization.
