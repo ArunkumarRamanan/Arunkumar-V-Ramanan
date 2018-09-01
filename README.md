@@ -43,6 +43,8 @@ Arunkumar V Ramanan (@arunkumar_bvr)
 ABOUT Arunkumar Ramanan 
 https://about.me/arunkumarramanan
 
+https://github.com/ArunkumarRamanan/Arunkumar-V-Ramanan/blob/master/About%20me
+
 Founder and CEO at DeepBrainz (Open Source Developer | Machine Learning Engineer | AI Researcher | Data Scientist)
 
 DeepBrainz Intelligent Systems
