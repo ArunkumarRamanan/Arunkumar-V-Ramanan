@@ -1,4 +1,4 @@
-Arunkumar V Ramanan
+Arunkumar Venkataramanan
 Founder and CEO at DeepBrainz (Chief Software Architect | Machine Learning Engineer | Data Scientist | AI Researcher)
 Bengaluru Area, India
 
